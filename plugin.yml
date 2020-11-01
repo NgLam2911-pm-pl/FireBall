@@ -1,0 +1,4 @@
+name: FireBall
+main: NgLamVN\FireBall\FireBall
+version: 0.0.1
+api: 3.12.0
